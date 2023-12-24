@@ -52,6 +52,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 Developed By : ARCHANA.T
 
 Register No: 212223240013
+
 import numpy as np 
 
 A =[int(i) for i in input().split()]
